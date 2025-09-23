@@ -1,0 +1,26 @@
+path: datasets/bdd # dataset root dir
+
+# Classes
+# Please insure that your custom dataset are put in same dir with YOLOv6_DIR
+train: ./train/images # images
+val: ./val/images # images
+test: ./test/images # images (optional)
+
+# whether it is coco dataset, only coco dataset should be set to True.
+is_coco: False
+# Classes
+nc: 13 # number of classes
+names:
+  0: pedestrian
+  1: rider
+  2: car
+  3: truck
+  4: bus
+  5: train
+  6: motorcycle
+  7: bicycle
+  8: traffic light
+  9: traffic sign
+  10: other vehicle
+  11: other person
+  12: trailer

@@ -1,0 +1,13 @@
+pedestrian
+rider
+car
+bus
+truck
+bicycle
+motorcycle
+green light
+red light
+yellow light
+traffic light
+traffic sign
+train

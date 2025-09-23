@@ -1,0 +1,6 @@
+*.pth
+*.png
+data
+dataset
+quantize_result
+*.zip
